@@ -17,3 +17,25 @@ cn.xsshome.algorithmNation
        └── util                                //工具类包含了SM2 SM3等一系列工具类
 ```
        
+
+```
+<!-- BC依赖包 -->
+<dependency>
+    <groupId>org.bouncycastle</groupId>
+    <artifactId>bcpkix-jdk15on</artifactId>
+    <version>1.57</version>
+</dependency>
+<!-- BC依赖包 -->
+<dependency>
+    <groupId>org.bouncycastle</groupId>
+    <artifactId>bcmail-jdk15on</artifactId>
+    <version>1.56</version>
+</dependency>
+<!-- hutool工具类 -->
+<dependency>
+    <groupId>com.xiaoleilu</groupId>
+    <artifactId>hutool-all</artifactId>
+    <version>3.0.9</version>
+</dependency>
+```
+

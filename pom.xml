@@ -4,7 +4,7 @@
 	<groupId>cn.xsshome</groupId>
 	<artifactId>algorithmNation</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>algorithmNation Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
