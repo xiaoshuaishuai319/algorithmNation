@@ -3,6 +3,7 @@
 [![JDK 1.8](https://img.shields.io/badge/JDK-1.8-green.svg "JDK 1.8")]()
 [![作者](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E5%B0%8F%E5%B8%85%E4%B8%B6-7AD6FD.svg)](https://www.xsshome.cn/)
 
+SM2生成证书请移步:[https://blog.csdn.net/u010651369/article/details/76907312](https://blog.csdn.net/u010651369/article/details/76907312)
 
 QQ:783021975
 
