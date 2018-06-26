@@ -5,6 +5,8 @@
 
 SM2生成证书请移步:[https://blog.csdn.net/u010651369/article/details/76907312](https://blog.csdn.net/u010651369/article/details/76907312)
 
+sm2root.cer是一个国密证书测试文件。可以自行下载查看相关证书内容哦
+
 QQ:783021975
 
 SM2证书生成相关文档&博文地址(有完全免费开源的代码)：[http://gm4j.mydoc.io/](http://gm4j.mydoc.io/)
