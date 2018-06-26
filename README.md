@@ -7,6 +7,8 @@ SM2生成证书请移步:[https://blog.csdn.net/u010651369/article/details/76907
 
 QQ:783021975
 
+SM2证书生成相关文档&博文地址(有完全免费开源的代码)：[http://gm4j.mydoc.io/](http://gm4j.mydoc.io/)
+
 新加1.SMCertUtil 生成国密证书工具类 2. XSCertExtension 拓展信息工具类
 
 目录结构
