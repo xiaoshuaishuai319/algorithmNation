@@ -7,6 +7,7 @@ SM2生成证书请移步:[https://blog.csdn.net/u010651369/article/details/76907
 
 QQ:783021975
 
+新加1.SMCertUtil 生成国密证书工具类 2. XSCertExtension 拓展信息工具类
 
 目录结构
 ```
@@ -14,6 +15,7 @@ cn.xsshome.algorithmNation
        ├── sample                                  //测试代码
                 └── Test                          //SM2加解密示例代码
                 └── TestSign                     //SM2签名验签示例代码
+                └── TestCert                     //SM2证书生成调用示例代码                
        ├── vo                                   //相关Java对象
        └── util                                //工具类包含了SM2 SM3等一系列工具类
 ```
