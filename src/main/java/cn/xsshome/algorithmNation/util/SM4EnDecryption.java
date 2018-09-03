@@ -18,7 +18,8 @@ import javax.crypto.spec.SecretKeySpec;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 /**
  * 国密SM4加解密 
- * 非小帅丶编写。代码参考来源于 https://github.com/ZZMarquis/gmhelper 
+ * 非小帅丶编写。
+ * 代码参考来源于 https://github.com/ZZMarquis/gmhelper 
  * @author https://github.com/ZZMarquis/gmhelper 
  */
 public class SM4EnDecryption {

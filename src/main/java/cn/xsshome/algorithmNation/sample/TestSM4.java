@@ -7,7 +7,6 @@ import cn.xsshome.algorithmNation.util.Util4Hex;
 /**
  * 国密SM4加解密调用示例代码
  * @author 小帅丶
- *
  */
 public class TestSM4 {
 	//明文数据
