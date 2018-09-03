@@ -20,7 +20,7 @@ cn.xsshome.algorithmNation
                 └── Test                          //SM2加解密示例代码
                 └── TestSign                     //SM2签名验签示例代码
                 └── TestCert                     //SM2证书生成调用示例代码          
-                └── TestSM4                     //SM4加解密示例代码   
+                └── TestSM4                     //SM4加解密示例代码    
        ├── vo                                   //相关Java对象
        └── util                                //工具类包含了SM2 SM3等一系列工具类
 ```
